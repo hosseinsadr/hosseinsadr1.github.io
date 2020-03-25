@@ -1,0 +1,9 @@
+# Associations
+
+- organization: Workshop
+  # url: https://www.peta.org/
+  summary: <ul class="resume-item-list"><li>on social Network Analysis, Methods, Applications and Tools, 4th International Conference on Web Research, University of Science & Culture (USC), IEEE Conference, Tehran, Iran,  April 2018.</li><li>on Deep learning in Python, 4th International Conference on Web Research, University of Science & Culture (USC), Tehran, Iran,  April 2018.</li><li>on Block Chain; A Bed for Electronic Glod, 4th International Conference on Web Research, University of Science & Culture (USC), Tehran, Iran,  April 2018.</li><li>on Methods of Writing Scientific Papers  New Approch, Islamic azad University of Lahijan(Siahkal), 2016.</li><li>on Cryptography and Information Security, Iranian Society of Cryptology, Guilan University, 2012.</li><li>on New Approaches in Data Mining, Iranian Smart Systems Association, Intelligent systems scientific society of  Iran (ISSSI), 2011.</li><li>on Methods of Writing Scientific Papers, Islamic Azad University of Roudsar, 2011.</li></ul>
+
+- organization: Training Courses
+  # url: http://campuspress.yale.edu/amnesty/
+  summary: <ul class="resume-item-list"><li>Deep learning and its application, ICT Research Institute (Iran Telecommunication Research Center), 2017.</li><li>Microsoft Network Engineering (MCITP,MCSE), Iran Advanced Skills Center, 2013.</li><li>Teachers Training Course, Department of Education of Guilan Province, 2010.</li></ul>

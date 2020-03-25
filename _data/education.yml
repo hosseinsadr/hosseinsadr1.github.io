@@ -1,0 +1,21 @@
+# Degree
+- degree: Ph.D. degree in software Computer engineering, Qazvin, Iran. 
+  uni: Islamic Azad University, Qazvin Branch
+  year: 2014 &mdash; 2019
+  summary: <pdir="rtl" align="justify"> Specialization in Deep Learning, Dissertation topic; Natural Language Processing using Deep Learning, Under Supervision of  Dr. MirMohsen Pedram (Associate Professor, Kharazmi University ,Tehran) and Prof.Mohammad Teshnelab (Full Professor, Khaje Nasir Toosi University of Technology, Tehran).</p>
+
+  #awards:
+    #- award: Summa Cumme Laude graduate
+  
+############
+- degree: M.Sc. degree in software Computer engineering, Tehran, Iran. 
+  uni: Islamic Azad University, Science and Research Branch
+  year: 2010 &mdash; 2013
+  #award: Most likely to succeed
+  summary: <p> Specialization in Information Retrieval, Dissertation topic; Computing text semantic relatedness using improved explicit semantic analysis. Thesis Rank; Excellent, Advisor; Dr.Ebrahimi, First rank among all computer students in 2010.</p>
+
+#############
+- degree: B.Sc. degree in software Computer engineering, Lahijan, Iran. 
+  uni: Islamic Azad University, Lahijan Branch
+  year: 2005 &mdash; 2009
+  summary: <p> Specialization in E-Learning, Dissertation topic; E-Learning in Higher Education.</p>

@@ -1,0 +1,33 @@
+# Skills
+# Programing languages
+- skill: Programing languages
+  description: <ul class="resume-item-list"><li>Web Applications Development with Microsoft .NET Framework 4.7</li><li>Accessing Data with Microsoft .NET Framework 4.7</li><li>Windows Communication Foundation Development with Microsoft .NET Framework 4.7</li><li>C#.NET2015</li><li>VB.NET2015,VB6</li><li>Java (NetBeans IDE)</li><li>Payton (Paytorch, Tensorflow, Keras)</li></ul>
+
+# Machine Learning Tools
+- skill: Machine Learning Tools
+  description: <ul class="resume-item-list"><li>Scikit-Learn, Weka, GenSim, GloVe, Mallet</li></ul>
+
+# Deep Learning Tools
+- skill: Deep Learning Tools
+  description: <ul class="resume-item-list"><li>TensorFlow, Theano</li></ul>
+
+# Information Retrieval Tools
+- skill: Information Retrieval Tools
+  description: <ul class="resume-item-list"><li>Lemur, Indri, Terrier, Apache (Solar, Nutch, Lucene)</li></ul>
+
+# Natural Language Processing Tools
+- skill: Information Retrieval Tools
+  description: <ul class="resume-item-list"><li>S-Space, Apache (Tika, Jena), KEA, NLTK</li></ul>
+
+# Web and Database Design
+- skill: Web and Database Design
+  description: <ul class="resume-item-list"><li>HTML 5.0</li><li>ASP.NET 4.0</li><li>SQL Server 2012 (Design & DBA).</li><li>Neo4j, MySQL, MongoDB</li><li>Oracel</li><li>System analysis and skills in the use of design methods for object-oriented information systems (UML).</li><li>Rational Rose 7.0, Power Designer, UML Paradiam</li></ul>
+
+# Other
+- skill: Other
+  description: <ul class="resume-item-list"><li>Windows Server 2008</li><li>Adobe Photoshop Cs 6</li><li>Endnote</li><li>Latex</li></ul>
+
+# Language Skills
+- skill: Language Skills
+  description: <ul class="resume-item-list"><li>Farsi, Mother tongue</li><li>English, Intermediate</li><li>EPT degree with score of 65 on 100 Scale, 2017</li><li>Tolimo degree with score of 485 on 700 Scale, 2017</li></ul>
+
